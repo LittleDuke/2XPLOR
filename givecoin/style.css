@@ -1,0 +1,64 @@
+.jumbo_small {
+background-color:#EEEEEE;
+font-size:15px;
+color:#5a5a5a;
+padding:20px 40px;
+}
+
+.jumbo_small p {
+font-size:15px;
+font-weight:700;
+}
+
+.jumbo_small .srch {
+width:80%;
+border:1px solid #446e0b;
+margin-right:10px;
+padding:9px;
+}
+
+.srch_btn {
+line-height:25px;
+margin-bottom:2px;
+outline:none;
+background:#A5A5A5;
+color:#fff;
+-webkit-transition:all .2s ease-out;
+-moz-transition:all .2s ease-out;
+-o-transition:all .2s ease-out;
+transition:all .2s ease-out;
+-webkit-border-radius:4px;
+border-radius:4px;
+-moz-background-clip:padding;
+-webkit-background-clip:padding-box;
+background-clip:padding-box;
+padding:7px 40px;
+}
+
+.srch_btn:hover {
+background-color:#EEEEEE;
+}
+
+.footer {
+padding-top:20px;
+font-size:11px;
+text-align:left;
+color:#ccc;
+padding-bottom:50px;
+}
+
+.footer a {
+color:#aaa!important;
+}
+
+.btn-big {
+font-size:.875em;
+text-transform:uppercase;
+font-weight:600;
+}
+
+a,a:hover {
+color:#007dcc;
+}
+
+
